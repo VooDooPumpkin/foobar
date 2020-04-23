@@ -1,7 +1,7 @@
 def test():
     print('test')
 
-def foo(a, b):
+def foo_34(a, b):
     c = a + b;
     c = c * c - b;
     return c;
