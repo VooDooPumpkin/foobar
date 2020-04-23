@@ -1,3 +1,6 @@
+def test():
+    print('test')
+
 def foo(a, b):
     c = a + b;
     c = c * c - b;
