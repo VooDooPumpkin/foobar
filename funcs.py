@@ -7,3 +7,6 @@ def bar_2(a, b):
     c = a / b
     c = (a + a) * b
     return (c)
+
+def boo(a, b):
+    return a + b
